@@ -23,3 +23,6 @@ Run Ghost Toolbox on any OS
 Download the files, copy paste the "nhcolor.exe" in System32
 
 copy paste ghost toolbox folder in C directory and now open the ghost_toolbox.cmd as admin or use ghost toolbox updater.exe
+
+TUTORIAL
+https://www.youtube.com/watch?v=jUOqc338W0w
